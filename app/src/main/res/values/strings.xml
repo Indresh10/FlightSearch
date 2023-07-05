@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FlightSearch</string>
+    <string name="search">Search</string>
+    <string name="airport_search">%s: %s</string>
+    <string name="depart">Departure</string>
+    <string name="arrive">Arrival</string>
+    <string name="favorite_flights">Favorite Routes</string>
+    <string name="flight_from">Flight from %s</string>
+    <string name="sorry">Sorry</string>
+    <string name="no_result">No result Found</string>
+</resources>
